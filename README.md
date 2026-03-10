@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nermin 👋
 
-<!--
-**NarminGahramanova/NarminGahramanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Flutter Developer who enjoys building modern, responsive, and user-friendly mobile applications. I have a background in frontend development, which helps me create clean and intuitive user interfaces.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 📱 Flutter Developer
+- 🎨 Former Frontend Developer
+- 💡 Passionate about building smooth and user-friendly mobile apps
+- 🌱 Continuously learning new technologies and improving my development skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Mobile:** Flutter, Dart
+- **Frontend:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code, Figma
+- **Concepts:** REST API Integration, Responsive UI, State Management
+
+## 📌 What I'm Currently Doing
+- Improving my Flutter development skills
+- Building real-world mobile applications
+- Learning better app architecture and clean code practices
+
+## 📫 Connect With Me
+
+- Email: gahramanovanarmin02@gmail.com 
+---
+
+⭐ Feel free to check out my projects and repositories!
