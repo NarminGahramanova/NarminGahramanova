@@ -1,4 +1,4 @@
-# Hi, I'm Nermin 👋
+# Hi, I'm Narmin 👋
 
 I'm a Flutter Developer who enjoys building modern, responsive, and user-friendly mobile applications. I have a background in frontend development, which helps me create clean and intuitive user interfaces.
 
